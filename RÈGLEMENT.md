@@ -21,7 +21,7 @@ Le participant se voyant attribué un lot aura l'obligation de s'acquitter des t
 
 ## 3. Conditions de participation
 
-La participation au présent jeu-concours est réservée aux personnes remplissant la condition suivante:
+La participation au présent jeu-concours est réservée aux personnes remplissant la condition suivante :
 
 * Étudiants en Informatique (suivant à minima une Unité d'Enseignement d'Informatique) à l'Université Côte d'Azur durant l'année universitaire 2020/2021.
 
@@ -35,17 +35,17 @@ La participation au jeu-concours est ouverte à compter du 22/03/2021 au 31/05/2
 
 Chaque personne ne peut participer qu'une seule fois.
 
-La participation se déroule selon les modalités suivantes:
+La participation se déroule selon les modalités suivantes :
 
-* Durant la période du concours, le participant devra developper un bot discord dans le temps imparti. Tout bot qui n'est pas développé par vos soins, dans la periode impartie du concours, entrainera une disqualification immédiate.
+* Durant la période du concours, le participant devra développer un bot discord dans le temps imparti. Tout bot qui n'est pas développé par vos soins, dans la période impartie du concours, entrainera une disqualification immédiate.
 
 ## 6. Désignation des gagnants
 
-Les gagnants seront déterminés de la manière suivante:
+Les gagnants seront déterminés de la manière suivante :
 
 * À la fin du concours, le jury (listé ci-après) passera en revue les bots, et décidera si ses fonctionnalités sont correctement implémentées. Le jury récompensera la qualité du code ainsi que son originalité.
 
-Le jury intervenant dans le déroulement du jeu-concours est composé des personnes suivantes:
+Le jury intervenant dans le déroulement du jeu-concours est composé des personnes suivantes :
 
 1. [Marie Pelleau](https://github.com/mpelleau)
 2. [Arnaud Malapert](https://github.com/arnaud-m)
@@ -62,7 +62,7 @@ Les résultats seront communiqués le 30/06/2021 sur le discord de la licence.
 
 ## 8. Contributions des participants
 
-En soumettant leurs contributions, les participants au jeu-concours acceptent que ces dernières soient utilisées par l'Organisateur dans les conditions suivantes:
+En soumettant leurs contributions, les participants au jeu-concours acceptent que ces dernières soient utilisées par l'Organisateur dans les conditions suivantes :
 
 * Les codes retenus seront utilisés dans le bot du serveur discord de la Licence informatique à l'Université Côte d'Azur.
 
@@ -70,7 +70,7 @@ En soumettant leurs contributions, les participants au jeu-concours acceptent qu
 
 Des données à caractère personnel concernant les participants sont collectées avec leur consentement dans le cadre de ce jeu-concours, dans le but d'établir l'identité du participant, de le prévenir en cas de gain et de lui remettre le lot lui étant attribué.
 
-Les données seront traitées conformément aux dispositions de notre politique de confidentialité et pouvant être consultée à l'adresse suivante: [stc.re/privacy](https://stc.re/privacy).
+Les données seront traitées conformément aux dispositions de notre politique de confidentialité et pouvant être consultée à l'adresse suivante : [stc.re/privacy](https://stc.re/privacy).
 
 Les participants pourront exercer leurs droits d'accès, de rectification et d'effacement de leurs données personnelles de la manière suivante :
 
